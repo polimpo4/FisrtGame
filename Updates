@@ -1,0 +1,15 @@
+//Start Log At Version 0.171.48
+
+Version 0.173.2
+Adds
+- button to restar;
+- bind escape to quit game;
+
+Version 0.172
+Adds
+- Ground detector to prevent infinite jumps;
+
+Version 0.171.48
+Adds
+- fix ghost effect;
+- revert ghost effect;
